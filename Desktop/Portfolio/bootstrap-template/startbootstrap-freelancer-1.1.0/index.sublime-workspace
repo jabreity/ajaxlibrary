@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"history",
+				"history-list"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"log",
+				"log-definition"
+			],
+			[
+				"def",
+				"definition"
+			],
+			[
+				"Data",
+				"DataTypes"
+			],
+			[
+				"de",
+				"definition"
+			],
+			[
+				"se",
+				"sessionToken"
+			],
+			[
+				"pas",
+				"passwordHash"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"wheel",
+				"wheelCount"
+			],
+			[
+				"lo",
+				"logModel"
+			],
+			[
+				"ring",
+				"ringBike1Bell"
+			],
+			[
+				"r",
+				"ringBike1Bell"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 536.0,
+		"history":
+		[
+			"bike.ringBell();",
+			"bike.ringBell(",
+			"ringBell",
+			"console.log(\"Error\")",
+			"console.log(\"error\")",
+			"console.log(Error)",
+			"console.log(error)",
+			"var error",
+			"error",
+			"Error",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/routes/log.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/routes/session.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/workouts/log.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/user/auth.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/gulpfile.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/package.json",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/app.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/routes/definition.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/routes/user.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/index.html",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/models/definition.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/workouts/define.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/app.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/middleware/validate-session.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/.env",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/middleware/headers.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/models/user.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/db.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/.gitignore",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/server/package.json",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/bower_components/jquery/dist/jquery.min.js",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/readme.md",
+		"/C/Users/Benjamin/Desktop/Playground/WorkoutLog/client/.gitignore",
+		"/C/Users/Benjamin/Desktop/Playground/JS/send_json.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/send_html.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/basic_server.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/traverse_a_directory.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/read_a_directory.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/main-module.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/module-2.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/module-one.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/pi.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/iife.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/car_factory.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/sadie-private-practice.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/4-object-pattern.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/objects.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/functions.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/html-object-pattern.js",
+		"/C/Users/Benjamin/Desktop/Portfolio/CarmelFlorist/flowershop.html",
+		"/C/Users/Benjamin/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/Benjamin/Desktop/Playground/JS/node.sublime-build",
+		"/C/Users/Benjamin/Desktop/Playground/JS/part-0.js",
+		"/C/Users/Benjamin/Desktop/Playground/JS/formatting.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"def",
+			"logType",
+			"Definition",
+			"definition",
+			"bike2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.js",
+				"client\\app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
