@@ -71,6 +71,7 @@ $(document).ready(function(){
       $(".menuList").text(" ");
     }
     });
+  
     $("#satButton").click(function(){
        if($(".menuList").text() ==" "){
       $(".menuList").text(weeklyMenu.menuItems.menuByDay[6].dayMenu);
@@ -79,4 +80,5 @@ $(document).ready(function(){
       $(".menuList").text(" ");
     }
     });
+  
 });
