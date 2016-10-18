@@ -1,4 +1,4 @@
-var ben="I am horrible at this, I don't know why I'm still trying."
+var ben="Trying Harder"
 
 (#aboutBen).onClick{
 	alert= var ben
